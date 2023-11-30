@@ -1,5 +1,4 @@
-<h1 align="center">Olá! eu me chamo Caio Magalhães</h1>
-<h3 align="center">Saiba um pouco mais sobre mim:</h3>
+<h1 align="center">Caio Magalhães</h1>
 
 Atualmente estagiário de desenvolvimento na BCR.CX focado no frontend, apaixonado por criar experiências web. Ao longo do meu período de estágio, aprimorei minhas habilidades em HTML, CSS e JavaScript, utilizando essas tecnologias para desenvolver páginas web.
 
