@@ -1,10 +1,8 @@
 <h1 align="left">Caio Magalhães</h1>
 
-Atualmente estagiário de desenvolvimento na BCR.CX focado no frontend, apaixonado por criar experiências web. Ao longo do meu período de estágio, aprimorei minhas habilidades em HTML, CSS e JavaScript, utilizando essas tecnologias para desenvolver páginas web.
+  Atualmente estagiário de desenvolvimento na BCR.CX focado no frontend, apaixonado por criar experiências web. Ao longo do meu período de estágio, aprimorei minhas habilidades em HTML, CSS e JavaScript, utilizando essas tecnologias para desenvolver páginas web.
 
- Durante o meu trabalho, concentrei-me em manipulações de dados por meio de APIs, aprimorando minhas habilidades em integrações de sistemas. Trabalhei extensivamente com webhooks, Zendesk e utilizei JavaScript para realizar requisições, utilizando tanto a abordagem nativa (fetch) quanto a biblioteca Axios.
-
- Atualmente, estou imerso no universo dos frameworks JavaScript, dedicando meu tempo ao estudo aprofundado de React e Node.js. Essa jornada de aprendizado visa expandir minha capacidade de criar aplicações mais robustas e eficientes.
+ No momento estou imerso no universo dos frameworks JavaScript dedicando meu tempo ao estudo aprofundado de React e Node.js. Essa jornada de aprendizado visa expandir minha capacidade de criar aplicações mais robustas e eficientes.
 
  Estou sempre em busca de desafios que me permitam crescer profissionalmente e contribuir para projetos inovadores. Se você procura um desenvolvedor comprometido, curioso e ansioso para enfrentar novos desafios, ficarei feliz em conectar-me.
 
