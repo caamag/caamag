@@ -1,8 +1,4 @@
 <h1 align="left">Caio Magalhães</h1>
-
-  # 💫 Sobre mim:
-Atuando como estagiário em desenvolvimento web na Business Customer Relationship, parceira premiere Zendesk, empresa que presta serviço de consultoria Zendesk, desenvolvimento de software e BPO. Sendo referência em estratégias tecnológicas de Experiência do Cliente. 
- Ao longo de minhas atividades diárias, estive encarregado do desenvolvimento de páginas web destinadas ao autoatendimento de uma variedade de clientes. Além disso, participei ativamente no desenvolvimento de aplicativos Zendesk visando aprimorar os serviços oferecidos pela área de suporte. Também prestei suporte técnico relacionado à plataforma Zendesk, bem como realizei a criação de relatórios utilizando as ferramentas nativas disponíveis nesta solução. Adicionalmente, implementei a integração de sistemas utilizando APIs externas, assim como realizei chamadas de API para a atualização e criação de dados em massa usando o Node.js.<br>
  Neste perfil eu exponho meus projetos pessoais e profissionais. Estou aberto a todo tipo de crítica, assim como busco me aperfeiçoar nas tecnologias que já utilizo bem como aprender novas ferramentas de desenvolvimento. 
 
 # 💻 Tech Stack:
