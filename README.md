@@ -1,6 +1,6 @@
 ## 👨‍💻 Sobre mim
 
-Olá! Me chamo **Caio Lopes Magalhães**, tenho 21 anos e sou formado em **Análise e Desenvolvimento de Sistemas**. Atualmente trabalho como **Desenvolvedor Frontend**, com foco em construir interfaces modernas, responsivas e eficientes para aplicações web.
+Olá! Me chamo **Caio Lopes Magalhães**, tenho 21 anos e sou formado em **Análise e Desenvolvimento de Sistemas**. Atualmente trabalho como **Desenvolvedor Frontend**, com foco em construir interfaces, responsivas e eficientes para aplicações web.
 
 Tenho conhecimentos sólidos em diversas tecnologias:
 
